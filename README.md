@@ -43,7 +43,11 @@ A curious and driven Frontend Developer
 import Component from 'my-project'
 
 function Smart() {
-  return Read The Fuck*** Manuel
+  if (the manuel is not read) {
+    return "Read The Fuck*** Manuel";
+  } else {
+    return "let’s find a solution together";
+  }
 }
 ```
 
