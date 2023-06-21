@@ -37,6 +37,12 @@ A curious and driven Frontend Developer
 ## Roadmap
 
 - Soon
+-
+
+We have to start somewhere 😎
+
+![Codewars](https://www.codewars.com/users/PilcodeurDev/badges/large)
+
 ## Usage/Examples
 
 ```javascript
