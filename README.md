@@ -32,6 +32,7 @@ A curious and driven Frontend Developer
 - POSTGRES
 - JAVASCRIPT
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilcodeurDev&theme=dark)
 
 ## Roadmap
 
