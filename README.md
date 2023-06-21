@@ -1,28 +1,48 @@
-<h3> Hi👋, I’m Simon </h3>
-______________________________________________________________________________________________________________________________________
 
-<h3>A curious and driven Front-end Developer</h3>
+# Hi, I’m Simon 👋
 
-- 🌱 I’m currently learning Javascript 
+A curious and driven Frontend Developer
+## 🚀 About Me
 
-- 📫 Reach me on simondprs62790@gmail.com
+👩‍💻 I'm currently working my Portfolio
 
-- 📖 I finished my bootcamp in June 2023 
+🧠 I'm currently learning React.js
 
-- ⭐ Come see me after the holidays to write my Portefolio 
+📫 Reach me on simondprs62790@gmail.com
 
-<h3>Connect with me: </h3>
+🤔 I'm looking for help with...
+
+📖 I finished my Fullstack bootcamp reconvertion in June 2023 (thanks Le-Wagon Lausanne 🚋)
+
+⭐ Come see me after the holidays to write my Portefolio
 
 
-<a href="https://www.linkedin.com/in/simon-dprs/" rel="nofollow">
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="simon-dprs" height="30" width="40" style="maw-width: 100%;">
-<a/>
+## 🔗 Links
+[![portfolio](#) Soon =)
 
-  
-  <h3>Languages and Tools: </h3>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simondespres/)
 
-  -  Ruby on rails
-  -  HTML
-  -  SCSS
-  -  POSTGRES
-  -  JAVASCRIPT
+
+
+## 🛠 Skills
+
+- Ruby on rails
+- HTML
+- SCSS
+- POSTGRES
+- JAVASCRIPT
+
+
+## Roadmap
+
+- Soon
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function Smart() {
+  return Read The Fuck*** Manuel
+}
+```
+
