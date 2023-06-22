@@ -6,7 +6,7 @@ A curious and driven Frontend Developer
 
 👩‍💻 I'm currently working my Portfolio
 
-🧠 I'm currently learning React.js
+🧠 I'm currently learning React.js && unit testing
 
 📫 Reach me on simondprs62790@gmail.com
 
