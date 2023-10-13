@@ -10,11 +10,12 @@ A curious and driven Frontend Developer
 
 📫 Reach me on simondprs62790@gmail.com
 
-🤔 I'm looking for help with...
-
 📖 I finished my Fullstack bootcamp reconvertion in June 2023 (thanks Le-Wagon Lausanne 🚋)
 
-⭐ Come see me after the holidays to write my Portefolio
+## 🗺 Roadmap
+
+- Find Job in REACT language
+- Creating the site : https://github.com/PilcodeurDev/kinesiologie_animaliere_25
 
 
 ## 🔗 Links
@@ -26,18 +27,16 @@ A curious and driven Frontend Developer
 
 ## 🛠 Skills
 
+- REACT
+- JAVASCRIPT
 - Ruby on rails
 - HTML
 - SCSS
 - POSTGRES
-- JAVASCRIPT
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilcodeurDev&theme=dark)
 
-## Roadmap
-
-- Soon
--
 
 We have to start somewhere 😎
 
