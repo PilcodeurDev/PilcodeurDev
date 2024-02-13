@@ -23,10 +23,11 @@ A curious and driven Frontend Developer
 - Three.JS
 - Tailwind
 - Bootstrap
+- Headless CMS
 - Netlify
 - Ruby on rails
 - PostgreSQL
-- Headless CMS
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilcodeurDev&theme=dark&layout=compact)
 
