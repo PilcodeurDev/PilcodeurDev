@@ -1,5 +1,5 @@
 
-# Hi, I’m Simon 👋
+# Hi, I’m Simon Despres, alias PilcodeurDev! 👋🏻
 
 A curious and driven Frontend Developer
 ## 🚀 About Me
@@ -13,10 +13,11 @@ A curious and driven Frontend Developer
 - Deepen my knowledge
 - offer my services on Fiverr/Malt
 
-## 🛠 Skills
+## 🛠 Tech stacks
 
 - HTML 
 - CSS
+- SASS
 - Javascript
 - React.JS
 - Three.JS
