@@ -1,32 +1,37 @@
 
 # Hi, I’m Simon Despres, alias PilcodeurDev! 👋🏻
 
-A curious and driven Frontend Developer
+A curious and driven fullstack Developer on React.JS and Java
 ## 🚀 About Me
 
-🧠 I'm currently learning React.JS && unit testing
+🧠 I'm currently learning Java to become completely autonomous and versatile.
 
 ## 🗺 Roadmap
 
+- Learn React.JS (router, hook, personal hook, async function) ✔
+- Learn Tailwind ✔
+- Learn Headless CMS for create website  ✔
 - Creating a website for my first client : [Go Reconnect](https://goreconnect.ch/) ✔
 - Creating my [portfolio](https://despres-simon.com/) website ✔
-- Deepen my knowledge
-- offer my services on Fiverr/Malt
+- Learn Java 
+- Need my perfect job
 
 ## 🛠 Tech stacks
 
+
+- React.JS
+- Java
+- Three.JS
+- Tailwind
+- Bootstrap
+- Headless CMS (strapi)
+- Netlify
+- Ruby on rails
+- PostgreSQL
 - HTML 
 - CSS
 - SASS
 - Javascript
-- React.JS
-- Three.JS
-- Tailwind
-- Bootstrap
-- Headless CMS
-- Netlify
-- Ruby on rails
-- PostgreSQL
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilcodeurDev&theme=dark&layout=compact)
